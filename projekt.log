@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.7)  9 JAN 2017 21:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.7)  15 JAN 2017 13:38
 entering extended mode
 **./projekt.tex
 (projekt.tex
@@ -419,20 +419,20 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 (projekt.aux)
 \openout1 = `projekt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
  ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
@@ -491,75 +491,78 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for OML+plm on input line 7.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 8.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 7.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 8.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\polski\omsplsy.fd"
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 7.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 8.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\polski\omxplex.fd"
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 7.
+(Font)              <12> on input line 8.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 7.
+(Font)              <8> on input line 8.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 7.
-
-
-LaTeX Warning: No \author given.
-
-(projekt.toc)
+(Font)              <6> on input line 8.
+ (projekt.toc)
 \tf@toc=\write3
 \openout3 = `projekt.toc'.
 
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 14.
+(Font)              <10> on input line 15.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 14.
+(Font)              <7> on input line 15.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 14.
- <calka1.png, id=1, 79.497pt x 79.497pt>
+(Font)              <5> on input line 15.
+
+<calka1.png, id=1, 79.497pt x 79.497pt>
 File: calka1.png Graphic file (type png)
  <use calka1.png>
-Package pdftex.def Info: calka1.png used on input line 21.
+Package pdftex.def Info: calka1.png used on input line 22.
 (pdftex.def)             Requested size: 119.2452pt x 119.2452pt.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<calka2.png, id=14, 293.898pt x 163.20975pt>
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] <calka2.png, id=14, 293.8
+98pt x 163.20975pt>
 File: calka2.png Graphic file (type png)
- <use calka2.png>
-Package pdftex.def Info: calka2.png used on input line 30.
+
+<use calka2.png>
+Package pdftex.def Info: calka2.png used on input line 31.
 (pdftex.def)             Requested size: 176.34015pt x 97.92659pt.
  [2 <./calka1.png> <./calka2.png>] (projekt.aux) ) 
 Here is how much of TeX's memory you used:
  2036 strings out of 493333
  26721 string characters out of 3139192
- 85261 words of memory out of 3000000
+ 85267 words of memory out of 3000000
  5528 multiletter control sequences out of 15000+200000
  12779 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,6n,25p,461b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/
-fonts/enc/dvips/pl/plms.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/pl/plm
-i.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/pl/plbx10.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/pl/plbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl
-/plmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Pr
+fonts/enc/dvips/pl/plms.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/pl/plr
+m.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/pl/plsc.enc}{C:/Program File
+s/MiKTeX 2.9/fonts/enc/dvips/pl/plmi.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc
+/dvips/pl/plme.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plbx10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/pl/plex10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/pl/plmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/p
+l/plmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/pl/plr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/pl/plsy7.pfb>
-Output written on projekt.pdf (2 pages, 131795 bytes).
+ublic/pl/plr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plr7.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plsy10.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/pl/plsy7.pfb>
+Output written on projekt.pdf (2 pages, 150419 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

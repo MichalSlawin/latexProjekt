@@ -1,3 +1,4 @@
 \contentsline {section}{\numberline {1}Ca\IeC {\l }ka}{1}
 \contentsline {section}{\numberline {2}Ca\IeC {\l }ka nieoznaczona}{1}
 \contentsline {section}{\numberline {3}Ca\IeC {\l }ka oznaczona}{1}
+\contentsline {section}{\numberline {4}Przyk\IeC {\l }adowe wzory}{2}
